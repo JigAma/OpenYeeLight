@@ -199,7 +199,7 @@
             this.SmoothnessProcentLabel.Name = "SmoothnessProcentLabel";
             this.SmoothnessProcentLabel.Size = new System.Drawing.Size(80, 21);
             this.SmoothnessProcentLabel.TabIndex = 8;
-            this.SmoothnessProcentLabel.Text = "1000MS";
+            this.SmoothnessProcentLabel.Text = "1000ms";
             this.SmoothnessProcentLabel.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // TemperatureProcentLabel
